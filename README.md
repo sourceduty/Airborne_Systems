@@ -1,4 +1,4 @@
-![Airborne](https://github.com/user-attachments/assets/059edbb9-c8c8-4a10-948e-823797257dbe)
+![Airborne](https://github.com/user-attachments/assets/3e256ac4-1709-4aa3-9d31-413af435a57f)
 
 > Plan, develop and simulate commercial or military airborne systems.
 
