@@ -34,6 +34,8 @@ Overall, this custom GPT is an expert resource for engineers and aviation profes
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [Tactical Vehicle Strategy](https://github.com/sourceduty/Tactical_Vehicle_Strategy)
+<br>
+[Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
