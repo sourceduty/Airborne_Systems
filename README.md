@@ -11,11 +11,10 @@ In addition to its expertise in airframe and avionics design, this GPT also spec
 Overall, this custom GPT is an expert resource for engineers and aviation professionals seeking advanced guidance in the development of next-generation airborne technologies. It offers a well-rounded approach to addressing the technical challenges of complex aviation systems while providing support for cutting-edge military and commercial applications.
 
 #
-
 ![Airborne Systems](https://github.com/user-attachments/assets/356f3f9f-f452-4e7b-b6e0-c6a3626bfaac)
-
 #
-
+![Plane](https://github.com/user-attachments/assets/a394595e-1b12-4cbc-9381-53b68662fc24)
+#
 ![Heli](https://github.com/user-attachments/assets/bdda3038-7c39-4495-a203-1afceb8b7549)
 
 #
