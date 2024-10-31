@@ -1,4 +1,5 @@
 ![Airborne](https://github.com/user-attachments/assets/3e256ac4-1709-4aa3-9d31-413af435a57f)
+![Water Drone](https://github.com/user-attachments/assets/e359115a-77e1-4dc9-bae2-8784fa001daa)
 
 > Plan, develop and simulate commercial or military airborne systems.
 
