@@ -38,6 +38,8 @@ Overall, this custom GPT is an expert resource for engineers and aviation profes
 [Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 <br>
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
+<br>
+[Private Military](https://github.com/sourceduty/Private_Military)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
